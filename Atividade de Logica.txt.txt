@@ -1,0 +1,13 @@
+Algoritmo da fase 12
+
+1- Avance duas vezes
+2- Destrua o bloco
+3- Se lava adiante, coloque pedregulho
+4- Avance uma vez
+5- Vire à esquerda
+6- Avance duas vezes
+7- Destrua o bloco
+8- Se lava adiante, coloque pedregulho
+9- Avance uma vez
+10- Vire à direita
+11- Destrua o bloco
